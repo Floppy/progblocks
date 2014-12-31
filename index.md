@@ -10,6 +10,18 @@ ProgBlocks is a modular physical programming system for robots. Imagine a set of
 
 The idea is that the system is robot-agnostic, and could be used to control any robot you like with a software interface (using something like [Artoo](http://artoo.io)).
 
+## Block Types
+
+*Start*: the main block, with batteries, raspberry pi, and connectivity built in. All hidden away, with a button on top to run the "program".
+
+*Drive*: a block that makes the robot drive a set distance forward. We could have different sized blocks for different distances.
+
+*Turn*: turn the robot through 90 degrees left or right. Could we make it detect which way up it is?
+
+*Light*: Make the robot light up or glow a particular colour.
+
+*Sound*: Make the robot make a noise of some sort.
+
 ## License
 
 The idea is that this would be an Open Hardware project, with open source code. The idea is currently under a Creative Commons BY-SA 4.0 license.
