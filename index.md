@@ -36,7 +36,7 @@ Blocks could be initially 3d printed for prototyping.
 
 ## Contributing
 
-Pull requests to improve the idea, or to start implementing it, are greatly appreciated. I probably don't have time to build this for a good while, but if anyone wants to, go ahead. Get involved on the [GitHub repository](https://github.com/Floppy/progblocks).
+Pull requests, comments, and improvements, are greatly appreciated. I probably don't have time to build this for a good while, but if anyone wants to make it happen, go ahead. Get involved on the [GitHub repository](https://github.com/Floppy/progblocks).
 
 ## License
 
