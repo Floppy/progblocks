@@ -28,6 +28,8 @@ We probably wouldn't have things like flow control blocks - the idea is to keep 
 
 ![blocks](images/blocks.jpg)
 
+(Imagine green is the *start* block, red is *drive*, blue is *turn*, and yellow is *light*)
+
 The blocks are building-block sized, with a standard interface at each end. Blocks could be any length as long as they keep the interfaces the same. Blocks would stick together magnetically, and make electrical contacts for some sort of serial bus.
 
 Each block would be addressable in some way along the serial bus (I2C?), and would simply respond with its command type and value. The raspberry pi would convert that into a set of commands to send to the robot via bluetooth, or whatever it was connected with. The electronics per block would be quite minimal.
