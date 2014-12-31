@@ -34,6 +34,10 @@ Blocks on the serial bus would have to auto-address themselves in order of conne
 
 Blocks could be initially 3d printed for prototyping.
 
+## Contributing
+
+Pull requests to improve the idea, or to start implementing it, are greatly appreciated. I probably don't have time to build this for a good while, but if anyone wants to, go ahead. Get involved on the [GitHub repository](https://github.com/Floppy/progblocks).
+
 ## License
 
 The idea is that this would be an Open Hardware project, with open source code. The idea is currently under a Creative Commons BY-SA 4.0 license.
