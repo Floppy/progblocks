@@ -3,7 +3,7 @@ layout: default
 ---
 
 # ProgBlocks
-
+gfdgfdgfdgdf
 I have a two-year-old and a seven-year-old with learning difficulties. I want to introduce them to programming ideas, but it's way too early for a lot of things.
 
 ProgBlocks is a modular physical programming system for robots. Imagine a set of building blocks that stick together in a chain, where each block is a command for a robot. Each block in the chain builds up a program that you can run by hitting a button on the start block.
